@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/rauha/CLionProjects/albums/Album.h
+stdio.h
+-
+
+/cygdrive/c/Users/rauha/CLionProjects/albums/AlbumList.c
+
+/cygdrive/c/Users/rauha/CLionProjects/albums/AlbumList.h
+Album.h
+/cygdrive/c/Users/rauha/CLionProjects/albums/Album.h
+
+/cygdrive/c/Users/rauha/CLionProjects/albums/test_AlbumList.c
+stdio.h
+-
+AlbumList.h
+/cygdrive/c/Users/rauha/CLionProjects/albums/AlbumList.h
+

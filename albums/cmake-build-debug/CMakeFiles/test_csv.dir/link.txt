@@ -1,0 +1,1 @@
+/usr/bin/cc -Wall -Werror -g  -Wl,--enable-auto-import CMakeFiles/test_csv.dir/test_csv.c.o CMakeFiles/test_csv.dir/csv.c.o  -o test_csv.exe -Wl,--out-implib,libtest_csv.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

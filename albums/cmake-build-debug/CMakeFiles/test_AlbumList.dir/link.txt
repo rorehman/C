@@ -1,0 +1,1 @@
+/usr/bin/cc -Wall -Werror -g  -Wl,--enable-auto-import CMakeFiles/test_AlbumList.dir/test_AlbumList.c.o CMakeFiles/test_AlbumList.dir/AlbumList.c.o  -o test_AlbumList.exe -Wl,--out-implib,libtest_AlbumList.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

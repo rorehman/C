@@ -1,0 +1,1 @@
+/usr/bin/cc -Wall -Werror -g  -Wl,--enable-auto-import CMakeFiles/albums.dir/main.c.o CMakeFiles/albums.dir/Album.c.o CMakeFiles/albums.dir/csv.c.o CMakeFiles/albums.dir/AlbumList.c.o  -o albums.exe -Wl,--out-implib,libalbums.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

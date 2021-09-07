@@ -1,0 +1,6 @@
+/cygdrive/c/Users/rauha/CLionProjects/albums/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/rauha/CLionProjects/albums/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/rauha/CLionProjects/albums/cmake-build-debug/CMakeFiles/test_AlbumList.dir
+/cygdrive/c/Users/rauha/CLionProjects/albums/cmake-build-debug/CMakeFiles/test_Album.dir
+/cygdrive/c/Users/rauha/CLionProjects/albums/cmake-build-debug/CMakeFiles/albums.dir
+/cygdrive/c/Users/rauha/CLionProjects/albums/cmake-build-debug/CMakeFiles/test_csv.dir
